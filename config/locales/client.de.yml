@@ -1,0 +1,51 @@
+---
+de:
+  js:
+    bookmarked:
+      clear_bookmarks: Clear Bookmarks
+    composer:
+      auto_close:
+        all:
+          units: ''
+    post:
+      errors:
+        too_many_dragged_and_dropped_files: Sorry, you can only drag & drop up to
+          10 files at a time.
+      actions:
+        people:
+          spam_with_url: "{{icons}} flagged <a href='{{postUrl}}'>this as spam</a>"
+    category:
+      notifications:
+        title: ''
+        reasons: 
+    filters:
+      unread:
+        lower_title_with_count:
+          zero: ''
+      new:
+        lower_title_with_count:
+          zero: ''
+  admin_js:
+    admin:
+      plugins:
+        title: Plugins
+        installed: Installed Plugins
+        name: Name
+        none_installed: You don't have any plugins installed.
+        version: Version
+        change_settings: Change Settings
+        howto: How do I install plugins?
+      export_csv:
+        user_archive_confirm: Are you sure you want to download your posts?
+      invite:
+        button_text: Send Invites
+        button_title: Send Invites
+      logs:
+        screened_ips:
+          form:
+            filter: Search
+    badges:
+      badge:
+        anniversary:
+          name: Anniversary
+          description: Active member for a year, posted at least once
